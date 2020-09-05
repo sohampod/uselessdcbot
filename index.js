@@ -72,4 +72,4 @@ function image(message){
 }
  
  
-bot.login('NzUxNzM3NjM1OTkwNTM2Mjcz.X1NcOw.-OAZCras_3ImfQCHz4AWUWq9xig');
+bot.login(process.env.token);
